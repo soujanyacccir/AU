@@ -8,18 +8,14 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
 3x3 bit addition subtraction and Multiplier circuit 
 with 7 segment display
 
 ## How to test
-
 The first two pins are used for operation 
 00 ------ Addition 
 01 ------ Multiplication 
 11 ------ Subtraction
-
-# The reamianing pins are used as inputs for add/sub/mul
 
 pin 3 --------- A2
 pin 4 --------- A1
@@ -28,9 +24,7 @@ pin 6 --------- B2
 pin 7 --------- B1
 pin 8 --------- B0
 
-# The output of Adder and Subtractor would provide 
 S2,S1,S0 which is given as input to 7 segment display 
-
 
 ## External hardware
 
